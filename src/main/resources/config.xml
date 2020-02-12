@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <env name="Test01">
+        <url>https://demoqa.com/</url>
+        <browser>chrome</browser>
+        <browserRes>1920x1080</browserRes>
+        <startMaximized>true</startMaximized>
+        <username>insert_username</username>
+        <password>password_insert</password>
+    </env>
+    <env name="Test02">
+        <url>http://the-internet.herokuapp.com/</url>
+        <browser>chrome</browser>
+        <browserRes>1920x1080</browserRes>
+        <startMaximized>true</startMaximized>
+        <username>insert_password</username>
+        <password>insert_password</password>
+    </env>
+    <env name ="Forensixx">
+        <url>https://forensixxtest.azurewebsites.net/login</url>
+        <browser>chrome</browser>
+        <browserRes>1920x1080</browserRes>
+        <startMaximized>true</startMaximized>
+        <username>Sandi.horvat@comtrade.com</username>
+        <password>Forensixx1234</password>
+    </env>
+
+</config>
